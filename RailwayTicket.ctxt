@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=RailwayTicket
+comment1.params=name\ coach\ amt\ mobno
+comment1.target=void\ accept(java.lang.String,\ java.lang.String,\ int,\ long)
+numComments=2
